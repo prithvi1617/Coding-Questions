@@ -2,10 +2,10 @@
 
 
 str1='raju'
-str2='rjua'
+str2='rjvu'
 
-a=sorted(str1)
-b=sorted(str2)
+a=sorted(list(str1))
+b=sorted(list(str2))
 print(a)
 print(b)
 if a==b:
