@@ -15,4 +15,3 @@ if(checkYear(year)):
 else: 
 	print("Not a Leap Year") 
 	
-# This code is contributed by Chinmoy Lenka 

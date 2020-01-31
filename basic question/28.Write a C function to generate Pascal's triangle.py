@@ -1,7 +1,4 @@
-# Python3 program for Pascal's Triangle 
 
-# A O(n^2) time and O(n^2) extra 
-# space method for Pascal's Triangle 
 def printPascal(n:int): 
 
 	# An auxiliary array to store 
@@ -35,5 +32,4 @@ def printPascal(n:int):
 n = 5
 printPascal(n) 
 
-# This code is contributed 
-# by Sanju Maderna 
+
